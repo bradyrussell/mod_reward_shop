@@ -15,6 +15,6 @@ const DBName = "characters";///////////////////////////////////////////  <--- se
 ///////////////////////////////////////////////////////////////////
 
 // CHANGE THIS TO YOUR CUSTOM BOOST ITEM
-const CUSTOM_BOOST_ITEMID = 90001;  <--- if you have a custom level up or boost item, you can set its itemid here
+const CUSTOM_BOOST_ITEMID = 90001; // <--- if you have a custom level up or boost item, you can set its itemid here
 ```
 Thats it.
