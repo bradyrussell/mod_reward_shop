@@ -4,7 +4,15 @@ Requirments:
 * PHP, mysql, webserver (tested in apache2)
 * mysqli PHP extension
 
-Just drag the index.php file to an appropriate web directory on your web browser. Open it for editing to configure the following:
+**_Warning: No protections exist  in this code to restrict this page to your GMs only. Do not put this in a publicly facing web directory. This is meant for an internal control panel._**
+
+Just drag the index.php file to an appropriate PROTECTED web directory on your web server. 
+For instance:
+/var/www/html/codegen/index.php
+
+Then access it via http://hostname.tld/codegen
+
+Open it for editing to configure the following:
 
 ```php
 ///////////////////////////////////////////////////////////////////////////////////////
